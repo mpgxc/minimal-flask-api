@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/home/mpgxc/Documentos/Minimal.API.Docker/env/bin/python3",
+  "python.formatting.provider": "autopep8"
+}
